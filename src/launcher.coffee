@@ -23,6 +23,7 @@ includes =
   cstdlib: require("./includes/cstdlib")
   ctime: require("./includes/ctime")
   iomanip: require("./includes/iomanip")
+  cvittascience: require("./includes/cvittascience")
   foo: require("./includes/dummy_class_foo")
 
 headerAlias =
